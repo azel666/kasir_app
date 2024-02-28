@@ -19,13 +19,6 @@ class SignUp extends StatelessWidget {
             ),
 
             // Input nama
-            SizedBox(height: 20.0),
-            TextFormField(
-              decoration: InputDecoration(
-                labelText: "Nama Lengkap",
-                border: OutlineInputBorder(),
-              ),
-            ),
 
             // Input email
             SizedBox(height: 20.0),
